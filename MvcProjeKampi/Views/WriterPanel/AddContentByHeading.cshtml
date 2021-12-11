@@ -1,0 +1,20 @@
+﻿@model EntityLayer.Concrete.Content
+@{
+    ViewBag.Title = "AddContentByHeading";
+    Layout = "~/Views/Shared/_WriterLayout.cshtml";
+}
+
+<h1>Yeni İçerik Ekleme</h1>
+<br />
+@using (Html.BeginForm("AddContentByHeading", "WriterPanel", FormMethod.Post))
+{
+    
+    <div class="form-group">
+        @Html.TextBoxFor(x => x.ContentValue, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.ContentValue)
+        <br />
+
+        <button class="btn btn-info">İçerik Ekle</button>
+    </div>}
+
+
