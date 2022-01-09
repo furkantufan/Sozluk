@@ -5,9 +5,6 @@ Bu repositoryde sözlük sitelerine benzer bir uygulama geliştirilmiştir.
 
 #Proje Görselleri
 
-![yazargiris](https://user-images.githubusercontent.com/33198774/145690492-8c4ab7e2-a230-4347-8ec1-e2e688ee941f.png)
-
-![admingiriş](https://user-images.githubusercontent.com/33198774/145690494-f8c6a3f7-6fbb-4ebd-9ec9-b7328219006c.png)
 
 ![basliklar](https://user-images.githubusercontent.com/33198774/145690488-e5f9af35-3df2-4ebe-a065-e401b30e88cd.png)
 
